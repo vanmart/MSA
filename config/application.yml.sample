@@ -1,0 +1,10 @@
+
+DEFAULT_USERNAME: "sdfsagrtc"
+DEFAULT_LASTNAME: "adsfasdfnez"
+DEFAULT_PHONE: "234234233"
+DEFAULT_ADMIN_EMAIL: "name@mail.com"
+DEFAULT_PASSWORD: "paWEFdsfxzrd"
+
+development:
+  DATABASE_USER: "postgres"
+  DATABASE_PASSWORD: "sXXXXxxx41"
